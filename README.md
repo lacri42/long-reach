@@ -1,3 +1,7 @@
+## Updated for 0.16.*
+
+# Original Readme:
+
 # Long Reach
 
 This is a very simple mod. It just sets the reach distance to a very large
